@@ -14,6 +14,12 @@ El atajo de iOS incluido utiliza las URLs de este archivo JSON para facilitar la
 
 * **`resources-v***`:**  Este archivo contiene un objeto JSON con las URLs organizadas por plataforma.  Cada entrada incluye la URL base y cualquier parámetro necesario para la descarga.
 
+## Consideraciones
+
+- Este repositorio y el atajo asociado se proporcionan "tal cual" sin ninguna garantía. El uso de este atajo es bajo tu propia responsabilidad.
+- Asegúrate de respetar los términos de servicio de las plataformas desde las que descargas contenido. La descarga de contenido con derechos de autor sin permiso puede ser ilegal.
+- Las URLs de las APIs pueden cambiar con el tiempo. Se recomienda verificar si las URLs siguen funcionando correctamente.
+
 
 ## Contribuciones
 
