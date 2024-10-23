@@ -12,7 +12,7 @@ El atajo de iOS incluido utiliza las URLs de este archivo JSON para facilitar la
 
 ## Contenido del Repositorio
 
-* **`resources-v***`:**  Este archivo contiene un objeto JSON con las URLs organizadas por plataforma.  Cada entrada incluye la URL base y cualquier parámetro necesario para la descarga.
+**`resources-v***`:**  Este archivo contiene un objeto JSON con las URLs organizadas por plataforma.  Cada entrada incluye la URL base y cualquier parámetro necesario para la descarga.
 
 ## Consideraciones
 
