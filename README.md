@@ -10,6 +10,14 @@ El atajo de iOS incluido utiliza las URLs de este archivo JSON para facilitar la
 
 * Facebook, Instagram, X/Twitter, YouTube, TikTok, Reddit, Pinterest, Threads, Soundcloud y muchas mas...
 
+##Instalación del Atajo 
+
+- Descarga el archivo adjunto en la versión mas reciente.
+- Este se guardará en la aplicacion "Archivos/Finder" 
+- Haz clic sobre el archivo y te redirigira a la aplicación "Atajos/Shortcut" y sigue las instrucciones. 
+
+_Nota: El archivo "FullDownload" esta firmado por Apple._
+
 ## Contenido del Repositorio
 
 **`resources-v***`:**  Este archivo contiene un objeto JSON con las URLs organizadas por plataforma.  Cada entrada incluye la URL base y cualquier parámetro necesario para la descarga.
