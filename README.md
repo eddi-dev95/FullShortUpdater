@@ -10,7 +10,7 @@ El atajo de iOS incluido utiliza las URLs de este archivo JSON para facilitar la
 
 * Facebook, Instagram, X/Twitter, YouTube, TikTok, Reddit, Pinterest, Threads, Soundcloud y muchas mas...
 
-##Instalación del Atajo 
+## Instalación del Atajo 
 
 - Descarga el archivo adjunto en la versión mas reciente.
 - Este se guardará en la aplicacion "Archivos/Finder" 
